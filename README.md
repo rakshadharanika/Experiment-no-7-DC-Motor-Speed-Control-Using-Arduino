@@ -80,7 +80,9 @@ void loop()
 ###  TABULATION 
  
 
-![image](https://github.com/rakshadharanika/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/149348380/08b3a11a-a865-4536-8091-b90d6939dddf)
+		
+
+![image](https://github.com/rakshadharanika/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/149348380/623dcd02-ffc3-4cf4-b071-b0c052473680)
 
 
 
